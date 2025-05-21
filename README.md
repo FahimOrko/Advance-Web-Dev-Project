@@ -58,7 +58,7 @@ Admin panel could be enhanced with more filtering and analytics tools.
 | **Total**                  | **68+ hours** ✅ |
 
 
-##🔹 Presentation Method
+## 🔹 Presentation Method
 
 I have made a video and uploaded it in google drive. The link to the drive is on ItsLearingSubmission box.
 And the coode for the project is in this repo in diffrent braches.
