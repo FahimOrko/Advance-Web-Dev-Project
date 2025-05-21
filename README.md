@@ -1,7 +1,5 @@
 # Advance-Web-Dev-Project
 
-
-
 ## 🔹 Project Overview
 This project is an individual blog platform designed for student bloggers and tech readers. It enables users to publish, read, and interact with content through a clean, responsive UI. Key features include user authentication, blog CRUD operations, commenting, and admin moderation.
 
@@ -40,6 +38,11 @@ This project is an individual blog platform designed for student bloggers and te
 These could be integrated in future sprints for better UX.
 Admin panel could be enhanced with more filtering and analytics tools.
 
+## 🔹 Things that are left to do - 
+
+- Comment on Posts fuction was not added yet
+- Admin Content Moderation was not added yet
+
 
 ## 🔹 Total Hours Spent: 65+ Hours
 
@@ -57,5 +60,6 @@ Admin panel could be enhanced with more filtering and analytics tools.
 
 ##🔹 Presentation Method
 
-I will give the presentation live during the lecture as per the course requirements.
+I have made a video and uploaded it in google drive. The link to the drive is on ItsLearingSubmission box.
+And the coode for the project is in this repo in diffrent braches.
 
